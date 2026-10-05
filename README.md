@@ -60,8 +60,3 @@ El corpus sirve para las cuatro preguntas, con tres límites que condicionan el 
 
 La propuesta, todavía sin entrenar, es una línea base TF-IDF con regresión logística y SVM lineal, y una comparación con BETO o DistilBERT multilingüe. La métrica principal será el F1 de la clase positiva.
 
-## Licencia
-
-El código de este repositorio se publica bajo la licencia MIT.
-
-El dataset Disaster Response Messages no tiene una licencia identificada en su ficha de Hugging Face. No se relicencia aquí: se incluye solo para la evaluación del curso.
