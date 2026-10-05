@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+informe/
+data/procesado/traducciones_checkpoint.csv
+data/procesado/retraducciones_por_oracion.csv

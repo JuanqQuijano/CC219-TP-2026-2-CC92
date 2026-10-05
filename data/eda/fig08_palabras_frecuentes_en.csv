@@ -1,0 +1,46 @@
+grupo,palabra,frecuencia
+Petición (request=1),help,1584
+Petición (request=1),need,1384
+Petición (request=1),food,1244
+Petición (request=1),water,908
+Petición (request=1),people,774
+Petición (request=1),don,374
+Petición (request=1),tents,295
+Petición (request=1),aid,293
+Petición (request=1),earthquake,289
+Petición (request=1),house,277
+Petición (request=1),like,256
+Petición (request=1),thank,242
+Petición (request=1),area,228
+Petición (request=1),tent,217
+Petición (request=1),know,199
+Oferta (offer=1),food,43
+Oferta (offer=1),people,17
+Oferta (offer=1),water,16
+Oferta (offer=1),relief,15
+Oferta (offer=1),supplies,14
+Oferta (offer=1),help,13
+Oferta (offer=1),donate,11
+Oferta (offer=1),clothing,10
+Oferta (offer=1),items,10
+Oferta (offer=1),blankets,8
+Oferta (offer=1),non,8
+Oferta (offer=1),areas,8
+Oferta (offer=1),providing,8
+Oferta (offer=1),need,7
+Oferta (offer=1),international,7
+Sin petición ni oferta,people,2208
+Sin petición ni oferta,water,2006
+Sin petición ni oferta,food,1512
+Sin petición ni oferta,earthquake,1510
+Sin petición ni oferta,like,1272
+Sin petición ni oferta,said,1251
+Sin petición ni oferta,help,1026
+Sin petición ni oferta,haiti,900
+Sin petición ni oferta,know,898
+Sin petición ni oferta,areas,886
+Sin petición ni oferta,government,882
+Sin petición ni oferta,country,872
+Sin petición ni oferta,sandy,848
+Sin petición ni oferta,need,771
+Sin petición ni oferta,information,751

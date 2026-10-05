@@ -1,0 +1,4 @@
+genre,train,validation,test
+direct,8666,1047,1069
+news,10450,1290,1328
+social,1930,236,232

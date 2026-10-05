@@ -1,0 +1,5 @@
+genero,n,chrF,BLEU,ratio_longitud_es_en
+total,300,70.99,47.4,1.04
+direct,100,65.46,42.32,0.95
+news,100,77.52,55.98,1.19
+social,100,65.32,40.49,1.0

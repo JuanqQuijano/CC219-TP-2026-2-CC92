@@ -1,0 +1,8 @@
+,valor
+filas_iniciales,26248
+tras_quitar_vacios,26246
+tras_quitar_duplicados,26175
+original_en_espanol,8
+retraducidos_por_motivo,"{'omision': 228, 'truncada': 83, 'degenerada': 31}"
+eliminados_texto_es_vacio,5
+filas_finales,26170

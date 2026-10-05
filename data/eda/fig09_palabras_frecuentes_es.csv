@@ -1,0 +1,46 @@
+grupo,palabra,frecuencia
+Petición (request=1),ayuda,1179
+Petición (request=1),comida,935
+Petición (request=1),agua,902
+Petición (request=1),necesitamos,766
+Petición (request=1),gente,421
+Petición (request=1),tengo,415
+Petición (request=1),estoy,402
+Petición (request=1),personas,347
+Petición (request=1),nada,335
+Petición (request=1),casa,331
+Petición (request=1),terremoto,321
+Petición (request=1),están,316
+Petición (request=1),hambre,307
+Petición (request=1),gracias,300
+Petición (request=1),necesito,288
+Oferta (offer=1),alimentos,24
+Oferta (offer=1),comida,17
+Oferta (offer=1),ayudar,16
+Oferta (offer=1),agua,16
+Oferta (offer=1),socorro,14
+Oferta (offer=1),ropa,13
+Oferta (offer=1),suministros,13
+Oferta (offer=1),personas,13
+Oferta (offer=1),donar,12
+Oferta (offer=1),puedo,11
+Oferta (offer=1),artículos,10
+Oferta (offer=1),tengo,9
+Oferta (offer=1),ayuda,8
+Oferta (offer=1),niños,8
+Oferta (offer=1),entregar,7
+Sin petición ni oferta,agua,2094
+Sin petición ni oferta,terremoto,1663
+Sin petición ni oferta,personas,1542
+Sin petición ni oferta,están,1010
+Sin petición ni oferta,inundaciones,989
+Sin petición ni oferta,información,903
+Sin petición ni oferta,alimentos,867
+Sin petición ni oferta,gustaría,834
+Sin petición ni oferta,zonas,808
+Sin petición ni oferta,lluvias,779
+Sin petición ni oferta,ayuda,739
+Sin petición ni oferta,hacer,713
+Sin petición ni oferta,haití,711
+Sin petición ni oferta,trabajo,701
+Sin petición ni oferta,sandy,693

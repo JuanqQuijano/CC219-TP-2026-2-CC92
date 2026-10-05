@@ -1,0 +1,8 @@
+,valor
+related_0,6125
+related_2,193
+no_relacionados_con_alguna_etiqueta,0
+duplicados_message,72
+duplicados_message_entre_splits,1
+request_y_offer_a_la_vez,0
+offer_positivos_por_split,"{'test': 119, 'train': 0, 'validation': 0}"
